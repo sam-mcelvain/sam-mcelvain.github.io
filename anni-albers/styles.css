@@ -1,0 +1,33 @@
+.main {
+    background-color: #fff;
+}
+
+.container {
+    display: grid;
+    grid-template-columns: auto auto;
+}
+
+.container div {
+    margin: 4px;
+    padding: 12px;
+    font-size: 16px;
+}
+
+.quote {
+    font-style: italic;
+    font-size: 20px;
+    width: 400px;
+}
+
+.spacer {
+    height: 50px;
+    width: 400px;
+}
+
+h1 {
+    padding: 12px;
+}
+
+h2 {
+    padding: 12px;
+}
